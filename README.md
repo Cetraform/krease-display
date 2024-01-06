@@ -1,2 +1,2 @@
 # krease-display
-A barge-like display typeface created by Cetraform :)
+A bold display typeface created by Cetraform :)
