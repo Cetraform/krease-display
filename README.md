@@ -1,5 +1,7 @@
 # krease-display
 
+**Currently still in beta**
+
 A bold display typeface created by Cetraform :)
 
 Thanks for downloading Krease Display! Hope you love it, if you use it in a project, please email me to let me know!
