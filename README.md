@@ -1,7 +1,13 @@
 # krease-display
 
-**Currently still in beta**
+ _____ _                 _     __   __          
+|_   _| |__   __ _ _ __ | | __ \ \ / /__  _   _ 
+  | | | '_ \ / _` | '_ \| |/ /  \ V / _ \| | | |
+  | | | | | | (_| | | | |   <    | | (_) | |_| |
+  |_| |_| |_|\__,_|_| |_|_|\_\   |_|\___/ \__,_|
 
+for downloading Krease Display!
+  
 Crafted for loud headlines heavy posters, Krease Display is what you get if you take a conventional typeface, put it into a box (like those square watermelons) and squash it until it becomes almost illegible.
 Thanks for downloading Krease Display! Hope you love it, if you use it in a project, please email me to let me know!
 info@cetraform.com
